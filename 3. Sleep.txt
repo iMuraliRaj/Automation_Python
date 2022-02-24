@@ -1,0 +1,9 @@
+# 1. Import the time
+
+import time
+
+
+# 2. Use sleep method from the time package
+
+time.sleep()
+
