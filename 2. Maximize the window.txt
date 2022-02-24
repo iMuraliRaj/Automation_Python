@@ -1,0 +1,2 @@
+# Maximize the window
+driver.maximize_window()
